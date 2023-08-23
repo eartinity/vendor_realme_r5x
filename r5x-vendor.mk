@@ -311,6 +311,27 @@ PRODUCT_COPY_FILES += \
     vendor/realme/r5x/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile4.xml \
     vendor/realme/r5x/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile5.xml \
     vendor/realme/r5x/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile6.xml \
+    vendor/realme/r5x/proprietary/vendor/etc/libese-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libese-nxp.conf \
+    vendor/realme/r5x/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
+    vendor/realme/r5x/proprietary/vendor/etc/libnfc-nxp-pnscr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp-pnscr.conf \
+    vendor/realme/r5x/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
+    vendor/realme/r5x/proprietary/vendor/etc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp_RF.conf \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_bootup.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_bootup.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_ese_disableIso.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_ese_disableIso.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_ese_disableIsoRead.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_ese_disableIsoRead.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_nfcon.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_nfcon.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_chr.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_chr.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_cui.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_cui.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_3.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_3.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_aclog.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_aclog.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_cplc.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_cplc.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_fabkey.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_fabkey.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_free.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_free.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_keyset.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_keyset.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ese_sn.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_sn.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_ndi.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ndi.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_pcv.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_pcv.pnscr \
+    vendor/realme/r5x/proprietary/vendor/etc/sn100u_pnx_sst.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_sst.pnscr \
     vendor/realme/r5x/proprietary/vendor/etc/data/dsi_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/dsi_config.xml \
     vendor/realme/r5x/proprietary/vendor/etc/data/netmgr_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/netmgr_config.xml \
     vendor/realme/r5x/proprietary/vendor/etc/default-permissions/com.qualcomm.qti.cne.xml:$(TARGET_COPY_OUT_VENDOR)/etc/default-permissions/com.qualcomm.qti.cne.xml \
